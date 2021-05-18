@@ -1,5 +1,6 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com)
 
+Dont excet something epic lol its made with WRD API
 # ttxploit-reborn
 A new version of the old TTxPloit Roblox Cheat
 
